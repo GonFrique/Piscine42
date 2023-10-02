@@ -1,0 +1,11 @@
+TAILLE
+
+turncate -s 40 testShell1100
+
+PERMISSIONS
+
+chmod 455 testShell1100
+
+HORODATAGE
+
+touch -d "2023-6-1 23:42" testShell1100
